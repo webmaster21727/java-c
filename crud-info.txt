@@ -1,0 +1,7 @@
+CRUDE
+
+DATABASE  NAME:-crud
+
+DATABSE TABLE :- student
+
+DATABSE ROW :- rollno ,name,city
